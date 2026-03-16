@@ -1,0 +1,8 @@
+Info:
+
+This file contains the static code, without I/O system. Take input from array and save trained data in array. 
+
+Successfully run at chipyard spike simulation.
+
+
+this convolutional_8 folder is uploaded in the university git lab as static bare_metal_code
